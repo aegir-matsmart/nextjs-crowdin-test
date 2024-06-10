@@ -5,5 +5,10 @@
   "page.home.title": "Bienvenue sur <b>tutoriel Next.js i18n</b>",
   "page.home.description": "Vous consultez actuellement la page d'accueil en Français 🚀",
   "page.nested.title": "Exemple d'itinéraire imbriqué",
-  "some_page.new_feature.title": "Voici un nouveau titre !"
+  "some_page.new_feature.title": "Voici un nouveau titre !",
+  "checkout": {
+    "shipping": {
+      "button_label": "Buy now!"
+    }
+  }
 }
