@@ -1,4 +1,4 @@
 files:
-  - source: /src/lang/en.json
+  - source: /src/**/en.json
     translation: /%original_path%/%two_letters_code%.json
-pull_request_title: 'Updating translations!'
+pull_request_title: Updating translations!
