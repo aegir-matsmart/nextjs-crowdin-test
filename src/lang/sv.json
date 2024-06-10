@@ -5,5 +5,5 @@
   "page.home.title": "Välkommen till <b>Next.js i18n handledning</b>",
   "page.home.description": "Just nu tittar du på hemsidan på svenska 🚀",
   "page.nested.title": "Exempel på kapslade rutt",
-  "some_page.new_feature.title": "This is a new title!"
+  "some_page.new_feature.title": "Detta är en ny titel!"
 }
