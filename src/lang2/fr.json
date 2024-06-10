@@ -1,0 +1,8 @@
+{
+  "checkout": {
+    "shipping": {
+      "button": "Buy now!",
+      "proceed": "Next step"
+    }
+  }
+}
