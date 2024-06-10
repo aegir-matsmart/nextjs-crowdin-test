@@ -2,7 +2,8 @@
   "common.footer": "internationalisering handledning",
   "page.home.head.title": "Next.js i18n exempel",
   "page.home.head.meta.description": "Next.js i18n exempel - Svenska",
+  "page.home.title": "Välkommen till <b>Next.js i18n handledning</b>",
   "page.home.description": "Just nu tittar du på hemsidan på svenska 🚀",
   "page.nested.title": "Exempel på kapslade rutt",
-  "page.home.title": "Välkommen till <b>Next.js i18n handledning</b>"
+  "some_page.new_feature.title": "This is a new title!"
 }
